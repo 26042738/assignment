@@ -220,7 +220,7 @@ public class Products {
                     break;
                 }
                 else if(warr == 'n'){
-                    System.out.println("It won't be changed then");//change the message to be more user friendly
+                    System.out.println("No changes will be made");
                     break;
                 }
                 else{
@@ -249,7 +249,7 @@ public class Products {
                     break;
                 }
                 else if(cost == 'n'){
-                    System.out.println("Okay, Moving on");//change the message to be more user friendly
+                    System.out.println("Next step");
                     break;
                 }
                 else{
