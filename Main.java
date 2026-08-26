@@ -7,8 +7,8 @@ package com.mycompany.main;
 /**
  *Name:Vusani Maphiri
  * Student number:26042738
- * Module:Object Oriented Programming
- * Assignment:Assignment 1
+ * @author vusim
+ * 
  */
 import java.util.Scanner;
 public class Main{
